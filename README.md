@@ -1,0 +1,4 @@
+inncoin
+=======
+
+Cryptocurrency for fun
